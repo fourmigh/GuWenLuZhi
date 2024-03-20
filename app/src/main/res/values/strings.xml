@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">古文“录”止</string>
+    <string name="dynasty">朝代</string>
+    <string name="author_name">姓名</string>
+    <string name="book_name">书名</string>
+    <string name="author">作者</string>
+    <string name="book">书籍</string>
+    <string name="add">添加</string>
+    <string name="edit">修改</string>
+    <string name="delete">删除</string>
+</resources>

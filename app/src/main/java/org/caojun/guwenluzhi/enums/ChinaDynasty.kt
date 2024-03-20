@@ -1,0 +1,31 @@
+package org.caojun.guwenluzhi.enums
+
+enum class ChinaDynasty(var chinese: String) {
+    NA("未知"),
+    Xia("夏"),
+    Shang("商"),
+    XiZhou("西周"),
+    DongZhou("东周"),
+    Qin("秦"),
+    XiHan("西汉"),
+    Xin("新"),
+    XuanHan("玄汉"),
+    DongHan("东汉"),
+    SanGuo("三国"),
+    XiJin("西晋"),
+    DongJin("东晋"),
+    ShiliuGuo("十六国"),
+    NanbeiChao("南北朝"),
+    Sui("隋"),
+    Tang("唐"),
+    WuZhou("武周"),
+    WudaiShiguo("五代十国"),
+    BeiSong("北宋"),
+    NanSong("南宋"),
+    Liao("辽"),
+    XiXia("西夏"),
+    Jin("金"),
+    Yuan("元"),
+    Ming("明"),
+    Qing("清")
+}
